@@ -6,11 +6,11 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
+    title: "droplet impact",
     cardImage: "assets/images/project-page/quiz.jpg",
     description: "A quiz app built using basic react.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "",
+    Previewlink: "assets/images/dia_2_62_mm_impact_speed_0_44_m_per_s.mp4",
     Githublink: "",
   },
   {
